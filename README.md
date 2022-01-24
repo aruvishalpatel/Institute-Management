@@ -1,14 +1,7 @@
 # Institute-Management
 
 1: Home Page  <br />
-```css
-- text in red
-+ text in green
-! text in orange
-# text in gray
-<span style="color: green"> Some green text </span>
-@@ text in purple (and bold)@@
-```
+
 
    This is the home page. Where I have designed Latest News, Latest Events, Useful Links, Student Admission and Login.<br />
    
