@@ -1,7 +1,7 @@
 # Institute-Management
 
 1: Home Page  <br />
-```diff
+```css
 - text in red
 + text in green
 ! text in orange
