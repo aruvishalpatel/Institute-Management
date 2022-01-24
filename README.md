@@ -6,6 +6,7 @@
 + text in green
 ! text in orange
 # text in gray
+<span style="color: green"> Some green text </span>
 @@ text in purple (and bold)@@
 ```
 
