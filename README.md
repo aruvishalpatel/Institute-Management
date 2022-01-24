@@ -1,6 +1,7 @@
 # Institute-Management
 
-1: Home Page  <br />```diff
+1: Home Page  <br />
+```diff
 - text in red
 + text in green
 ! text in orange
