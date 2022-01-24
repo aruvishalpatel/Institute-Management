@@ -1,6 +1,6 @@
 # Institute-Management
 1: Home Page  <br />
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+<font color="green"> Some green text </font>  
    This is the home page. Where I have designed Latest News, Latest Events, Useful Links, Student Admission and Login.<br />
    
    
