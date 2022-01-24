@@ -1,15 +1,13 @@
 # Institute-Management
 
-1: Home Page  <br />
-<color:red>TEXT</color:red> 
-or
-<red>TEXT</red>
-or
-<r>TEXT</r>
-or
-?!RED[TEXT]
-or
-!?RED TEXT !?RED
+1: Home Page  <br />```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
    This is the home page. Where I have designed Latest News, Latest Events, Useful Links, Student Admission and Login.<br />
    
    
