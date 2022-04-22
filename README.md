@@ -2,9 +2,27 @@
 In this project we have to use CodeIgniter and Bootstrap. basically this project was design on requrement of Institute .
 ![home](https://user-images.githubusercontent.com/75820747/164680330-5993c154-aa12-4662-94d2-9fb88c147669.jpg)
 
-
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
 ![registration](https://user-images.githubusercontent.com/75820747/164680767-4dfe0e52-1f27-404e-af57-866ad9790127.jpg)
+
+
+
+
+
+
+
 
 
 
@@ -14,12 +32,37 @@ In this project we have to use CodeIgniter and Bootstrap. basically this project
 
 
 
+
+
+
+
+
+
+
+
 ![registrationsecond](https://user-images.githubusercontent.com/75820747/164680879-01c41205-3dfa-4c87-bbe1-c82fd0b1e9ee.jpg)
 
 
 
 
+
+
+
+
+
+
+
+
 ![review](https://user-images.githubusercontent.com/75820747/164680828-112f7af5-df4b-4103-b9be-c0b10b7c272d.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31,7 +74,29 @@ In this project we have to use CodeIgniter and Bootstrap. basically this project
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![registrationhome](https://user-images.githubusercontent.com/75820747/164680966-31f7d887-1e5f-4953-ae2b-f8c10e11f9fe.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -43,7 +108,36 @@ In this project we have to use CodeIgniter and Bootstrap. basically this project
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![approve](https://user-images.githubusercontent.com/75820747/164681101-31fdf471-0867-4c6d-9225-10bd88466546.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,7 +150,32 @@ In this project we have to use CodeIgniter and Bootstrap. basically this project
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![payU](https://user-images.githubusercontent.com/75820747/164681009-fba9a85f-b364-46b3-99ae-4e10063c1440.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
