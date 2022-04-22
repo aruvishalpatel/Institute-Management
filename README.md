@@ -1,5 +1,7 @@
 # Institute-Management
 In this project we have to use CodeIgniter and Bootstrap. basically this project was design on requrement of Institute .
+<br /><br />
+This is the main page or Home page of website. He you see many types of functionality like Login, Sign Up, News etc.
 ![home](https://user-images.githubusercontent.com/75820747/164680330-5993c154-aa12-4662-94d2-9fb88c147669.jpg)
 
    
